@@ -30,3 +30,4 @@ bot('sendMessage', [
     'text'=>'Welcome',
 ]);
 }
+?>
